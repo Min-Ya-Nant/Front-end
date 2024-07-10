@@ -5,7 +5,7 @@
 - h1
 - nav ul li
 
-# main 
+* main 
 - section
 - article
 - h2 
@@ -21,7 +21,7 @@
 - input 
 - button
 
-# footer
+* footer
 - span
 
 # CSS
