@@ -17,3 +17,17 @@ else if (anku){
 else {
     console.log('F F');
 }
+
+// var kay=100;
+// var may=kay< 200;
+// var pay=kay> 300;
+
+// if (may && pay){
+//     console.log('TT');
+// } else if (may){
+//     console.log('TF');
+// } else if (pay){
+//     console.log('FT');
+// } else {
+//     console.log('FF');
+// }
